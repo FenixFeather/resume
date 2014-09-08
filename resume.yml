@@ -1,0 +1,96 @@
+name: Thomas Liu
+
+contact:
+  address:
+    - "1947 E. Stephens Dr."
+    - "Tempe, AZ 85283"
+  email: tfliu2@illinois.edu
+  website:
+    - http://tfliu.com
+    - github.com/FenixFeather
+
+sidebar:
+  - heading: Languages
+    desc:
+      - Python, C++, Julia
+      - "Java, Bash, C#"
+      - Javascript
+
+  - heading: Technologies
+    desc:
+      - Git/Mercurical, .NET
+      - LaTeX, jquery
+      - Linux, Windows
+
+main:
+  Education:
+    - heading: BS Computer Science
+      time: 2013-
+      qualifier: University of Illinois @ Urbana Champaign
+      desc:
+        - "Chancellor's Scholar"
+        - James Scholar–University Achievement Scholar
+        - "Dean's list | 1 semester"
+        - "GPA: 3.7"
+
+  Employment:
+    - heading: kCura
+      time: "2014"
+      qualifier: Software Engineer Intern
+      desc:
+        - "- Created and implemented a plugin framework for sampling legal documents"
+        - "- Worked in an agile and test driven development environment"
+
+    - heading: Arizona State University
+      time: "2013"
+      qualifier: Federally Funded Apprenticeship Intern
+      desc:
+        - "- Worked with arduinos to develop mobile sensor platforms for monitoring traffic"
+        - "- Developed Android application to interface with sensor platforms"
+
+    - heading: University of Illinois @ Urbana Champaign
+      time: "2014"
+      qualifier: CS 125 Course Assistant
+      desc:
+        - "- Held office hours and mentored students in introductory Java programming course"
+
+  Research:
+    - heading: Phase Transition and Network Structure in Realistic SAT Problems
+      time: "2013"
+      qualifier: AAAI-13 in Bellevue, Washington
+      desc:
+        - "- Analyzed the relationship between the network properties of a SAT problem and its hardness"
+        - "- Presented at the 27th AAAI Conference on AI"
+
+    - heading: Investigating Computational Hardness through Realistic Boolean SAT Distributions
+      time: "2011"
+      qualifier: Siemens Competition for Math, Science, and Technology
+      desc:
+        - "- Developed a boolean SAT solver and generator in Python"
+        - "- Generated various statistical distributions of SAT problems and analyzed differences in hardness"
+        - "- Semifinalist recognition"
+
+  Selected Projects:
+    - heading: Cards to Cards
+      time: "2013"
+      qualifier: Python, PyQT
+      desc:
+        - Used sockets and PyQT to create a clone of Apples to Apples capable of multiplayer over the internet
+
+    - heading: Zooming Presentation
+      time: "2014"
+      qualifier: C++, SFML
+      desc:
+        - "Used model-view-controller pattern to present slides by zooming between them"
+
+    - heading: Genetic Name Generator
+      time: "2014"
+      qualifier: Julia
+      desc:
+        - Used genetic algorithms and unit tests to create a program that generates pleasing names
+
+fonts:
+  main: Ubuntu 
+  auxiliary: Ubuntu Condensed
+  heading: Ubuntu Medium
+  title: Ubuntu Condensed
