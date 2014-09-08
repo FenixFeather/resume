@@ -12,8 +12,8 @@ contact:
 sidebar:
   - heading: Languages
     desc:
-      - Python, C++, Julia
-      - "Java, Bash, C#"
+      - "Python, C++, C&#, Julia"
+      - "Java, Bash, VB"
       - Javascript
 
   - heading: Technologies
