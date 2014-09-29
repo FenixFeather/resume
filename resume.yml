@@ -4,6 +4,7 @@ contact:
   address:
     - "1947 E. Stephens Dr."
     - "Tempe, AZ 85283"
+    - "(480) 274-8003"
   email: tfliu2@illinois.edu
   website:
     - http://tfliu.com
@@ -12,7 +13,7 @@ contact:
 sidebar:
   - heading: Languages
     desc:
-      - "Python, C++, C&#, Julia"
+      - "Python, C++, C, C\\#, Julia"
       - "Java, Bash, VB"
       - Javascript
 
@@ -21,6 +22,16 @@ sidebar:
       - Git/Mercurical, .NET
       - LaTeX, jquery
       - Linux, Windows
+  
+  - heading: Courses
+    desc:
+      - "Current: Systems programming, Computer Architecture, Intro to AI, Probability in CS"
+      - "Past: Intro to CS, Discrete Structures, Data Structures"
+      
+
+        
+desc:
+  - Current: Systems programming, 
 
 main:
   Education:
@@ -31,6 +42,7 @@ main:
         - "Chancellor's Scholar"
         - James Scholar–University Achievement Scholar
         - "Dean's list | 1 semester"
+        - Graduating Dec 2016
         - "GPA: 3.7"
 
   Employment:
@@ -42,7 +54,7 @@ main:
         - "- Worked in an agile and test driven development environment"
 
     - heading: Arizona State University
-      time: "2013"
+      time: "2012"
       qualifier: Federally Funded Apprenticeship Intern
       desc:
         - "- Worked with arduinos to develop mobile sensor platforms for monitoring traffic"
