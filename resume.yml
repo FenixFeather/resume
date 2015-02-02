@@ -13,20 +13,21 @@ contact:
 sidebar:
   - heading: Languages
     desc:
-      - "Python, C++, C, C\\#, Julia"
+      - "Python, C++, C, C\\#, Julia/R"
       - "Java, Bash, VB"
       - Javascript
 
-  - heading: Technologies
+  - heading: Technologies and Skills
     desc:
       - Git/Mercurical, .NET
+      - Machine learning
       - LaTeX, jquery
       - Linux, Windows
   
   - heading: Courses
     desc:
-      - "Current: Systems programming, Computer Architecture, Intro to AI, Probability in CS"
-      - "Past: Intro to CS, Discrete Structures, Data Structures"
+      - "Current: Algorithms, Programming Studio, Operating System Design, Computer Security"
+      - "Past: Intro to CS, Discrete Structures, Data Structures, Systems programming, Computer Architecture, Intro to AI, Probability in CS"
       
 
         
@@ -41,9 +42,10 @@ main:
       desc:
         - "Chancellor's Scholar"
         - James Scholar–University Achievement Scholar
-        - "Dean's list | 1 semester"
+        - "Dean's list | 2 semesters"
         - Graduating Dec 2016
-        - "GPA: 3.7"
+        - "GPA: 3.78"
+        - "CS GPA: 3.98"
 
   Employment:
     - heading: kCura
@@ -61,10 +63,11 @@ main:
         - "- Developed Android application to interface with sensor platforms"
 
     - heading: University of Illinois @ Urbana Champaign
-      time: "2014"
-      qualifier: CS 125 Course Assistant
+      time: "2014-"
+      qualifier: CS 125, 233, 241 Course Assistant
       desc:
-        - "- Held office hours and mentored students in introductory Java programming course"
+        - "- Held office hours, taught discussions, and mentored students in introductory programming, computer architecture, and systems programming courses"
+        
 
   Research:
     - heading: Phase Transition and Network Structure in Realistic SAT Problems
